@@ -6,7 +6,7 @@ Web Api Tutorial
 4. Reliable shutdown
 5. Logging
 
-+++
+---
 
 Technologies Used / Packages Used
 
@@ -16,11 +16,13 @@ Technologies Used / Packages Used
 4. AutoRest
 5. Kestrel/MVC
 
-+++
+---
 
 Step 1. Basic Project Setup
 
 1. Create intial projects
 2. Get basic Api running and building
 
----
++++
+
+
