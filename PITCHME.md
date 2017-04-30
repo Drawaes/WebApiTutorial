@@ -23,7 +23,7 @@ Basic Project Setup
 1. Create intial projects
 2. Get basic Api running and building
 
-##(Press the down arrow to see how)
+*(Press the down arrow to see how)*
 
 +++
 
