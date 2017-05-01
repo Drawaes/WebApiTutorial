@@ -24,5 +24,9 @@ Basic Project Setup
 2. Get basic Api running and building
 
 *(Press the down arrow to see how)*
+
 +++
-+++?video=https://www.youtube.com/embed/RD3MIcjxpwY
+
+![Video](https://www.youtube.com/embed/RD3MIcjxpwY)
+
++++
