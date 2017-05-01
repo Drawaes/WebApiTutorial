@@ -25,9 +25,4 @@ Basic Project Setup
 
 *(Press the down arrow to see how)*
 
-+++
-
-
-Press the down arrow to see the notes and links
-
-+++
++++?video=https://www.youtube.com/embed/RD3MIcjxpwY
