@@ -28,3 +28,5 @@ Basic Project Setup
 +++
 
 
+Press the down arrow to see the video notes and links
+
